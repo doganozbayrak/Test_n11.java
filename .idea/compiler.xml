@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="n11_proje" />
+        <module name="GittiGidiyor.com" />
       </profile>
     </annotationProcessing>
   </component>

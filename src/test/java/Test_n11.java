@@ -82,6 +82,7 @@ public class Test_n11 extends Base_Test {
         logger.info("Sepetin boşaltıldığı doğrulanmıştır.");
 
         // git deneme yorum satırı
+        //yeni branch islemleri
     }
 }
 
