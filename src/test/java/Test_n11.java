@@ -80,6 +80,8 @@ public class Test_n11 extends Base_Test {
         Thread.sleep(1000);
         Assertions. assertEquals("Sepetiniz Boş",homePage.remove_basket_control());
         logger.info("Sepetin boşaltıldığı doğrulanmıştır.");
+
+        // git deneme yorum satırı
     }
 }
 
